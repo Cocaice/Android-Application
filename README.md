@@ -16,5 +16,6 @@ The assignment and the project of the course Android Application Development
 
    - 点击登录按钮能够判断学号密码并且显示相关提示，具体为
 
-     ![https://github.com/Cocaice/Android-Application/blob/master/page/hw2.jpg]()
+     ![](https://github.com/Cocaice/Android-Application/blob/master/page/hw2.jpg)
+
 
