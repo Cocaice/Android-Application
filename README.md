@@ -28,4 +28,16 @@ The assignment and the project of the course Android Application Development
 
      ![](https://github.com/Cocaice/Android-Application/blob/master/page/hw3.jpg)
 
+4. **Broadcast 使用**
+
+   - 在实验三基础上，实现静态广播和动态广播两种改变Notification 内容的方法
+
+   - 启动应用产生通知并随机推荐一个商品，然后点击通知进入商品详情页面
+
+   - 点击添加购物车产生通知，并通过Eventbus在购物车列表更新数据，点击通知进入购物车页面
+
+   - 启动页面的通知由静态广播产生，点击购物车图标的通知由动态广播产生，具体为
+
+     ![](https://github.com/Cocaice/Android-Application/blob/master/page/hw4.jpg)
+
 
