@@ -40,4 +40,12 @@ The assignment and the project of the course Android Application Development
 
      ![](https://github.com/Cocaice/Android-Application/blob/master/page/hw4.jpg)
 
+5. **appwidget及broadcast使用**
+
+   - 实现一个Android应用，实现静态广播、动态广播两种改变widget 内容的方法。
+
+   - 启动时的widget的更新通过静态广播实现，点击购物车图标时候widget的更新通过动态广播实现，具体为
+
+     ![](https://github.com/Cocaice/Android-Application/blob/master/page/hw5.jpg)
+
 
