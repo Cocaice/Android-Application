@@ -48,4 +48,11 @@ The assignment and the project of the course Android Application Development
 
      ![](https://github.com/Cocaice/Android-Application/blob/master/page/hw5.jpg)
 
+6. **服务与多线程--简单音乐播放器**
+
+   - 使用MediaPlayer，学会使用多线程编程并使用Handle更新UI，使用Service 进行后台工作且与Activity通信
+   - 使用以上知识点实现一个简单播放器，功能要求有：播放、暂停，停止，退出功能、后台播放功能、进度条显示播放进度、拖动进度条改变进度功能、播放时图片旋转，显示当前播放时间功能，具体为：![](https://github.com/Cocaice/Android-Application/blob/master/page/hw6.png)
+
+   ​
+
 
